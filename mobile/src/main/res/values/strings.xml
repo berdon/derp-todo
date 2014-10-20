@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Derping TODO</string>
+    <string name="todo_hint">Enter something TODO</string>
+    <string name="delete_item"> X </string>
+    <string name="add_todo"> + </string>
+
+</resources>
